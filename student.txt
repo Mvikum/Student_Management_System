@@ -1,0 +1,10 @@
+st_001;123;john;s;john@gmail.com;
+st_006;234;tom;s;tom@gmail.com;
+ict1231;222;supun;s;supun@gmail.com;
+st_111;111;sunil;s;sunil@gmail.com;
+st_000;000;mali;s;mali@gmail.com;
+st111;red;nimal;s;nimal@gmail.com;
+st_999;123;pawan;s;pawan@gmail.com;
+stu123;saman;saman;s;saman@gmaail.com;
+st002;chari;charitha;s;charitha@gmail.com;
+1234;0000;bimsara;s;bimsara@gmail.com;

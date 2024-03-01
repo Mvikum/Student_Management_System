@@ -1,0 +1,7 @@
+lec11;111;perera;l;perera@gmail.com;
+lec345;345;amy;l;amy@gmail.com;
+lec01;sam;sam;l;sam@gmail.com;
+lal01;123;root;L;lala@gmaill.com;
+lec11;123;sumantha;l;sumanth@gmail.com;
+lec1234;1234;devon;l;devon@gmail.com;
+123;0101;Mr,viraj;l;ffdfdf@gmail.com;

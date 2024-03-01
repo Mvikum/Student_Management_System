@@ -1,0 +1,3 @@
+ad_001;111;sam;a;sam@gmail.com;
+ad_002;222;carl;A;carl@gmail.com;
+admin;root;admin;a;admin@gmail.com;
